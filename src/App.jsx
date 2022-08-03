@@ -8,8 +8,9 @@ import "./App.css";
 function App() {
   return (
     <div>
-    <AppRouter />
       <Navbar />
+    <AppRouter />
+      
       </div>
   );
 }
